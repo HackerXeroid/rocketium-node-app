@@ -6,7 +6,7 @@ This project is a Node.js application that provides an API for fetching and mana
 
 ## Live Demo
 
-[Live Working Project]()
+[Live Working Project](https://rocketium-node-app.onrender.com/api/v1/users)
 PS: The server takes 2-3 min to start for the first request.
 
 ## Getting Started
